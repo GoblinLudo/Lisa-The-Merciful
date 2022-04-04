@@ -155,4 +155,8 @@ class Game_BattlerBase
     after_abags_guard_skill_return # call original method
   end
   
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> cb8c9c3af3be9d77389244fffec3034ad2c8a0df
