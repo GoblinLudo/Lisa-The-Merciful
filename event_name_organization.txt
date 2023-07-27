@@ -1,0 +1,5 @@
+EVT - Event (Generic)
+INS - Inspect
+PCK - Pickup (Stashes)
+FGT - Fight (totally not faggot winkyface)
+LVL - Level change
